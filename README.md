@@ -1,2 +1,2 @@
 # DataScienceCoursera
-Hello World this my first Repo!
+Hello World this is my first Repo!
